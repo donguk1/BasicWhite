@@ -13,6 +13,8 @@ public class ex17 {
 
         a = 4;
 
+
+
         str = a +"";
 //        숫자를 문자열로 변환 숫자에 빈 문자열("") 더하기
         System.out.println(str + " " + a);
