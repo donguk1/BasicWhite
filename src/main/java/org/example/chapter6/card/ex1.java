@@ -1,6 +1,6 @@
 package org.example.chapter6.card;
 
-public class ex3 {
+public class ex1 {
 
     public static void main(String[] args) {
 
@@ -30,7 +30,9 @@ public class ex3 {
         // 결과 값
         // c1은 Heart, 7이며, 크기는 (50, 80)
         // c2은 Spade, 4이며, 크기는 (50, 80)
-        // width와 height를 공유하기에 c1과 c2 의 크기가 같음
+        // width, height 둘다 클래스 변수 이기에 c1과 c2 의 크기가 같음
+        // 클래스 변수는 모든 인스턴스가 공통되 저장공간(변수)을 공유
+        // 즉, c1, c2의 width, height 의 값이 같음
 
 
 
