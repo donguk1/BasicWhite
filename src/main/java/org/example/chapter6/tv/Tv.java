@@ -1,4 +1,4 @@
-package org.example.chapter6;
+package org.example.chapter6.tv;
 
 public class Tv {
 

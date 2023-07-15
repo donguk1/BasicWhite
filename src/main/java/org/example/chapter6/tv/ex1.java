@@ -1,4 +1,4 @@
-package org.example.chapter6;
+package org.example.chapter6.tv;
 
 public class ex1 {
     public static void main(String[] args) {
